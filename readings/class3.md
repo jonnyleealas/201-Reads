@@ -19,11 +19,11 @@ This tells the browser what to do if contents within a box overflow. The over fl
 These are what make up a box. Margin sits outside the border. Border is the middle guy. padding is right in the center. 
 #
 ## White space
-Space between items in a page. Anything that doesn't touch another thing.
+Space between Items in a page. Anything that doesn't touch another thing.
 
 # Javascript
 
-if ( x >=50){
+if ( p >=50){
 #
     congragulate() ;
 }
