@@ -1,7 +1,7 @@
 # Jonathon Lee
 ## Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 #
-### List in html
+### List In Html
 - Ordered lists= Each item of the list is numbered. < ol >
 - Unordered lists= list begins with bullet. < ul >
 - Defenitions list= set of terms with defenitions for each term. < dl >
