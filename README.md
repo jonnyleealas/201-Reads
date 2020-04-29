@@ -35,7 +35,7 @@ Jonathons 201 Repo
 
 
 
-### Table of contents
+## Table of contents
 
 - [class1 reading](readings/class1.md)
 - [class2 reading](readings/class2.md)
