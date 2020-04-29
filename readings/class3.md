@@ -23,9 +23,9 @@ Space between items in a page. Anything that doesn't touch another thing.
 
 # Javascript
 
-if ( x >=50) {
+if ( x >=50){
 #
-    congragulate();
+    congragulate() ;
 }
 #
 This is a type of question you can ask in js to have some output in your site. If x is >= to 50 then the code for congragulate would run. If the statement was false then the another code could possibly run.
