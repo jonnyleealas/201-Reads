@@ -37,7 +37,7 @@ Controling properties of text using CSS.
 #
 - Font = regular, bold, italic.
 #
-Typface are font styles, but must be installed in the computer using the typeface. They are subject to copyright. Also, keep in mind that the way a style looks on one comp may differ if using on another. Say mac vs pc. It is suggested to use no more than 3 types of typeface for a page.
+Typeface are font styles, but must be installed in the computer using the typeface. They are subject to copyright. Also, keep in mind that the way a style looks on one comp may differ if using on another. Say mac vs pc. It is suggested to use no more than 3 types of typeface for a page.
 # 
 Font size can be adjusted using px, perctentage, and EMs. 
 #
