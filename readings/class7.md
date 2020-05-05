@@ -14,7 +14,7 @@ Stores data properties and bahaviors using methods(functions within an object).
 - document.createElement(), Creates new element.
 - document.createTextNode(), Creates new text node.
 #
-Dom will affect html out side of the html page by using a link beneather the footer of the html link. Browsers with JS enabled will then run the JS code and run it.
+Dom will affect html out side of the html page by using a link beneath the footer of the html link. Browsers with JS enabled will then run the JS code and run it.
 #
 ### Html Tables
 A grid or spread sheet used to organize data. 
