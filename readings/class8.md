@@ -69,7 +69,6 @@ Inside of the block level box go inline elements.
 
 
 
-### Creating Site Layouts
 
 
 
@@ -96,4 +95,3 @@ Inside of the block level box go inline elements.
 
 
 
-### Screen Sizes
