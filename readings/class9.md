@@ -5,7 +5,7 @@
 ### Forms
 - Elements that allow you to collect info from the user.
 - Spaces for users to fill in.
-_ Froms are the space you use to type inside of google search.
+- Froms are the space you use to type inside of google search.
 
 ### Form Controls
 - Text input
@@ -56,12 +56,12 @@ We bind events using the DOM in JS.
 # 
 Event names are followed by the word on.Ex: onblur
 - Event listeners handle more than one function at a time.
-###f addEventListener
+### addEventListener
 - 3 parameters 
 1. The event you want to listen for.
 1. The code you want it to run.
 1. Boolean indicating how events flow. Usually set to false.
-Events nest inside other elemements like arent child. But they only matter when the code has even handlers, and ancestor, or descendant.
+Events nest inside other elements like arent child. But they only matter when the code has even handlers, and ancestor, or descendant.
 #
 When an event occurs the event object tells you information about.
 1. Info about the event.
