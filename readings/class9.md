@@ -56,7 +56,8 @@ We bind events using the DOM in JS.
 # 
 Event names are followed by the word on.Ex: onblur
 - Event listeners handle more than one function at a time.
-### addEventListener
+#
+### Add EventListener
 - 3 parameters 
 1. The event you want to listen for.
 1. The code you want it to run.
