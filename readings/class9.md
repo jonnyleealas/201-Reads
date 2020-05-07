@@ -15,7 +15,7 @@
 - Check boxes
 - Drop down boxes
 - Submit buttons
-- Image buttoms
+- Image buttons
 - File upload button
 #
 ### How forms work
@@ -62,7 +62,7 @@ Event names are followed by the word on.Ex: onblur
 1. The event you want to listen for.
 1. The code you want it to run.
 1. Boolean indicating how events flow. Usually set to false.
-Events nest inside other elements like arent child. But they only matter when the code has even handlers, and ancestor, or descendant.
+Events nest inside other elements like aren't child. But they only matter when the code has even handlers, and ancestor, or descendant.
 #
 When an event occurs the event object tells you information about.
 1. Info about the event.
