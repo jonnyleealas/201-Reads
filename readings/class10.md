@@ -18,12 +18,12 @@ Order of executions are not as simple as 123. Tasks run in different orders depe
 - Function-Level Scope; var declared in a function.
 #
 ### The console/ dev tools
-- Tools inside a browser used to find promlems in code.
+- Tools inside a browser used to find problems in code.
 
 #
 ### Execution context and hoisting
 - Prepare phase is when we create a var or function.
-- Execute is when we call statments, run code, reference functions.
+- Execute is when we call statements, run code, reference functions.
 #
 ### Lexical scope
 - Functions are linked to the object they were defined in.
