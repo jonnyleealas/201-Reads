@@ -9,7 +9,7 @@ Debugging is solving puzzles and creating instructions that allow the computer t
 ### Order of execution
 Order of executions are not as simple as 123. Tasks run in different orders depending on the code. One code may not run if the code before needs to complete, or if the code after is run.
 ### Execution Context
-- Global; Code in script but not in funciton.
+- Global; Code in script but not in function.
 - Function Context; Code running inside a function.
 - Eval Context; Code in an internal function.
 
@@ -18,7 +18,7 @@ Order of executions are not as simple as 123. Tasks run in different orders depe
 - Function-Level Scope; var declared in a function.
 #
 ### The console/ dev tools
-- Tools inside a brower used to find promlems in code.
+- Tools inside a browser used to find promlems in code.
 
 #
 ### Execution context and hoisting
@@ -31,7 +31,7 @@ Order of executions are not as simple as 123. Tasks run in different orders depe
 #
 
 ### Errors
-Js will look for error handling codes when it has found an error. I it doen't find an error handling code it will terminate the script and create an error object.
+Js will look for error handling codes when it has found an error. I it doesn't find an error handling code it will terminate the script and create an error object.
 
 #
 ### Property Description 
@@ -62,4 +62,4 @@ We can use something called break points in the console to stop the script from 
 #
 ### Throwing errors
 Creating your own errors to the what may be the cause of the actual error.
-- throw new error(messag).
+- throw new error(message).
