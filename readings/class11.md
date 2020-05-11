@@ -29,6 +29,6 @@ Moves an image left to right with elements floating on the oppisite side.
 
 ###  Nodelist
 - hotItemes[i].className = 'cool'
-The i checks for each item according the the loop as it goes throught the length in the array.
+The i checks for each item according the the loop as it goes through the length in the array.
 - Nodelists have a method called item().
 - var firstItem = elements.item()
