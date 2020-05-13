@@ -5,10 +5,10 @@
 ### Google Team 
 This read was about working in a team. It talked about the differences of teams that work well together  and teams that don't work well together. What makes them different? 
 #
-One difference is that groups tend to innovate faster. Make sense; more people more brains to deal with a probllem. 
+One difference is that groups tend to innovate faster. Make sense; more people more brains to deal with a problem. 
 # 
-They used something called Project Aristotle to reasearch google work groups. Why did some succeed and why did some fail? They found a few things that pointed to a successful team.
-- Each memeber had equal opporunity to speak.
+They used something called Project Aristotle to research google work groups. Why did some succeed and why did some fail? They found a few things that pointed to a successful team.
+- Each member had equal opportunity to speak.
 - They lifted each other up. 
 - High average social sensitivity. 
 - People need to feel that their ideas will not be ridiculed.
@@ -41,7 +41,7 @@ They used something called Project Aristotle to reasearch google work groups. Wh
   transform: translate(-10px, 25%);
 }
 
-- These properties help alter properties to give it more demensions.
+- These properties help alter properties to give it more dimensions.
 
 ### Transitions
 - An element must have a change in states. 
